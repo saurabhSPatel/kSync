@@ -25,7 +25,7 @@ kSync is a lightweight, scalable, and ZooKeeper-free **Kafka cluster** powered b
 ## 🛠️ Getting Started
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/kSync.git
+git clone https://github.com/saurabhSPatel/kSync.git
 cd kSync
 ```
 
